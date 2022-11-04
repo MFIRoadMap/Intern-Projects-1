@@ -1,5 +1,8 @@
-# Staj-1-Projeler
+<h1>Java Projects</h1>
 
+
+
+<h3>Staj-1-Projeler</h3>
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
 
 Projeler;
@@ -14,25 +17,25 @@ Projeler;
 
 
 * Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/sa%C4%9Fl%C4%B1k/1.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/sa%C4%9Fl%C4%B1k/2.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/sa%C4%9Fl%C4%B1k/3.png)
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/1.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/2.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/3.png" width=50% height=50%>
 
 * Java servlet - oracle db ile web uygulaması görselleri
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/1.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/2.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/3.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/4.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/5-1.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/5-2.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/5.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/6.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/7.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/8.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20web/9.png)
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/1.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/2.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/3.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/4.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/5-1.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/5-2.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/6.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/7.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/8.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/9.png" width=50% height=50%>
+
 
 * Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması) görselleri
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20masa%C3%BCst%C3%BC/1.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20masa%C3%BCst%C3%BC/2.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20masa%C3%BCst%C3%BC/3.png)
-![](https://github.com/MFurkanILKEL/Staj-1-Projeler/blob/main/G%C3%96RSELLER/kaizen%20masa%C3%BCst%C3%BC/4.png)
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/1.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/2.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/3.png" width=50% height=50%>
+<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/4.png" width=50% height=50%>
