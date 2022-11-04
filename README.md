@@ -1,8 +1,6 @@
-<h1>Java Projects</h1>
+<h1>Java Projects</h1> <br>
 
-
-
-<h3>Staj-1-Projeler</h3>
+### [Staj-1-Projeler](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects)
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
 
 Projeler;
