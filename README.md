@@ -37,11 +37,9 @@ Proje üç kısımdan oluşmaktadır;
 <br>
 <h1>Ekran Görüntüleri</h1>
 <h3>Staj projesinden Görüntüler</h3>
-<br>
-- [Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/)
- 
-- [Java servlet - oracle db ile web uygulaması görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/)
 
+- [Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/)
+- [Java servlet - oracle db ile web uygulaması görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/)
 - [Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması) görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/)
 <br>
 
