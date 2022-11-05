@@ -1,4 +1,4 @@
-<h1>Java Projects</h1> <br><br><br>
+<h1>Java Projects</h1> <br>
 
 ### [Staj-1-Projeler](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects)
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
@@ -10,9 +10,9 @@ Projeler;
 * Java servlet - oracle db ile web uygulaması
   + İşyerindeki verimi arttırmak adına çalışanların işyerindeki verimi arttıracaklarını düşündükleri fikirlerini kurumla paylaşabilecekleri bir web uygulaması geliştirmem kararlaştrıldı (kaizen). Henüz ilk web uygulamam olduğu için bootstrap gibi farklı teknolojiler kullanamadım. 
 * Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)
-  + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  <br>
-
-<br><br>
+  + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  
+ 
+ <br>
 
 ### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
 
@@ -22,11 +22,11 @@ Projede maliyeti düşük tutabilmek adına müşteir kartlarını okumada Ardui
 
 Proje üç kısımdan oluşmaktadır;
 
-1-> Mağzada kullanılmak üzere ana kasa ve jetkasa uygulamaları geliştirildi. Ana kasa personel aracılığıyla satın alma işleminin gerçekleştirildiği kasa tipidir. Pandemi sürecinde alışverişlerde oluşacak izdihami azaltabilmek adına müşterilerin ürünleri kendileri satın alabileceği jet kasa uygulaması geliştirildi.
+[1->](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/MagzaDesktop) Mağzada kullanılmak üzere ana kasa ve jetkasa uygulamaları geliştirildi. Ana kasa personel aracılığıyla satın alma işleminin gerçekleştirildiği kasa tipidir. Pandemi sürecinde alışverişlerde oluşacak izdihami azaltabilmek adına müşterilerin ürünleri kendileri satın alabileceği jet kasa uygulaması geliştirildi.
 
-2-> Personelin mağzada ihtiyaç duyacağı işlemleri (ürün kaydıi kart kaydı, sipariş takibi, kasa durumlarını görüntüleme...) yapabileceği ayrıca bir uygulama geliştirildi.
+[2->](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/Magza_Desktop) Personelin mağzada ihtiyaç duyacağı işlemleri (ürün kaydıi kart kaydı, sipariş takibi, kasa durumlarını görüntüleme...) yapabileceği ayrıca bir uygulama geliştirildi.
 
-3-> Personellerin çeşitli işlemlerini yapabileceği web sayfası hazıralnıd. Müşterilerin alışveriş ve ödeme geçmişini görebildiği, markette beklemeden alışveriş yapabilmek için markette hazırlanmasıni istediği ürünleri seçip ödemesini yapabildiği ve daha birçok işlemi yapabildiği web sayfası geliştirildi.
+[3->](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/MagzaWeb) Personellerin çeşitli işlemlerini yapabileceği web sayfası hazıralnıd. Müşterilerin alışveriş ve ödeme geçmişini görebildiği, markette beklemeden alışveriş yapabilmek için markette hazırlanmasıni istediği ürünleri seçip ödemesini yapabildiği ve daha birçok işlemi yapabildiği web sayfası geliştirildi.
 
 
 
