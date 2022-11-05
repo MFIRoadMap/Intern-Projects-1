@@ -10,7 +10,7 @@ Projeler;
 * Java servlet - oracle db ile web uygulaması
   + İşyerindeki verimi arttırmak adına çalışanların işyerindeki verimi arttıracaklarını düşündükleri fikirlerini kurumla paylaşabilecekleri bir web uygulaması geliştirmem kararlaştrıldı (kaizen). Henüz ilk web uygulamam olduğu için bootstrap gibi farklı teknolojiler kullanamadım. 
 * Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)
-  + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  
+  + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  <br>
 
 
 * Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri
@@ -18,6 +18,16 @@ Projeler;
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/2.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/3.png" width=50% height=50%>
 
+
+
+### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Payment-System%20without%20Commission)
+
+
+
+<br>
+<br>
+<br>
+<h4>Staj prohjesinden Görüntüler</h4>
 * Java servlet - oracle db ile web uygulaması görselleri
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/1.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/2.png" width=50% height=50%>
@@ -36,3 +46,8 @@ Projeler;
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/2.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/3.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/4.png" width=50% height=50%>
+
+
+<h4>Pos Kesintisiz Temassız Ödeme Sisteminden Görüntüler </h4>
+
+
