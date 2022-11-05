@@ -20,7 +20,7 @@ Projeler;
 
 
 
-### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Payment-System%20without%20Commission)
+### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
 
 
 
