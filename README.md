@@ -31,36 +31,20 @@ Proje üç kısımdan oluşmaktadır;
 
 
 
+
 <br>
 <br>
 <br>
 <h1>Ekran Görüntüleri</h1>
-<h4>Staj prohjesinden Görüntüler</h4>
-* Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/1.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/2.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/3.png" width=50% height=50%>
+<h3>Staj projesinden Görüntüler</h3>
+<br>
+* [Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/)
+* 
+* [Java servlet - oracle db ile web uygulaması görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/)
+* 
+* [Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması) görselleri](https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/)
+<br>
 
-* Java servlet - oracle db ile web uygulaması görselleri
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/1.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/2.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/3.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/4.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/5-1.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/5-2.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/6.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/7.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/8.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/9.png" width=50% height=50%>
-
-
-* Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması) görselleri
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/1.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/2.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/3.png" width=50% height=50%>
-<img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Kaizen/4.png" width=50% height=50%>
-
-
-<h4>Pos Kesintisiz Temassız Ödeme Sisteminden Görüntüler </h4>
+<h3>Pos Kesintisiz Temassız Ödeme Sisteminden Görüntüler </h3>
 
 
