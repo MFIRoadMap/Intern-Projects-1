@@ -1,4 +1,4 @@
-<h1>Java Projects</h1> <br>
+<h1>Java Projects</h1> <br><br><br>
 
 ### [Staj-1-Projeler](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects)
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
@@ -12,22 +12,34 @@ Projeler;
 * Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)
   + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  <br>
 
+<br><br>
 
+### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
+
+Pandemiyle beraber alışverişlerde temassız ödeme sistemi yaygın olarak kullanılmaya başlandı. Bu süreçte ürün tedariği, karantina sürecinde çalışamama gibi birçok konuda zorluk yaşayan küçük ve orta ölçekli marketler aynı zamanda alışverişlerde kullanılan temassız ödemelerin artması kar marjlarında düşüşe neden olmaktadır. Bu sürecin daha az kayıpla geçiştirebilmesi için küçük ve orta ölçekli marketlerde kullanılabilecek temassız ödeme sistemi oluşturumaya çalışılmıştır.
+
+Projede maliyeti düşük tutabilmek adına müşteir kartlarını okumada Arduino ve RFID kart okuyucu kullanılmıştır. 
+
+Proje üç kısımdan oluşmaktadır;
+
+1-> Mağzada kullanılmak üzere ana kasa ve jetkasa uygulamaları geliştirildi. Ana kasa personel aracılığıyla satın alma işleminin gerçekleştirildiği kasa tipidir. Pandemi sürecinde alışverişlerde oluşacak izdihami azaltabilmek adına müşterilerin ürünleri kendileri satın alabileceği jet kasa uygulaması geliştirildi.
+
+2-> Personelin mağzada ihtiyaç duyacağı işlemleri (ürün kaydıi kart kaydı, sipariş takibi, kasa durumlarını görüntüleme...) yapabileceği ayrıca bir uygulama geliştirildi.
+
+3-> Personellerin çeşitli işlemlerini yapabileceği web sayfası hazıralnıd. Müşterilerin alışveriş ve ödeme geçmişini görebildiği, markette beklemeden alışveriş yapabilmek için markette hazırlanmasıni istediği ürünleri seçip ödemesini yapabildiği ve daha birçok işlemi yapabildiği web sayfası geliştirildi.
+
+
+
+<br>
+<br>
+<br>
+<h1>Ekran Görüntüleri</h1>
+<h4>Staj prohjesinden Görüntüler</h4>
 * Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası görselleri
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/1.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/2.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Desktop%20Health%20Register%20App/3.png" width=50% height=50%>
 
-
-
-### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
-
-
-
-<br>
-<br>
-<br>
-<h4>Staj prohjesinden Görüntüler</h4>
 * Java servlet - oracle db ile web uygulaması görselleri
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/1.png" width=50% height=50%>
 <img src="https://github.com/MFIRoadMap/Java-Projects/blob/main/Inter-Projects/Screenshots/Web%20Kaizen/2.png" width=50% height=50%>
