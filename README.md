@@ -4,12 +4,13 @@
 2019 yılında yaptığım ilk staj süresince gerçekeleştirdiğim projeleri paylaşıyorum. Bu projeleri 2. sınıfın yazında gerçekleştirdim. 
 
 Projeler;
-* Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası
+* [Java swing - oracle db ile masaüstü sağlık otomasyonu giriş sayfası](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects/STAJ%20PROJE(Desktop%20Health%20Register%20App))
   + Benden bir sağlık kuruluşu için kullanıcıların kartlarını cihaza okutarak sağlık kuruluşundan kendi adına istedikleri doktordan rendevu alabilecekleri bir masaüstü uygulaması geliştirmem istendi. 
    
-* Java servlet - oracle db ile web uygulaması
+* [Java servlet - oracle db ile web uygulaması](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects/Ka%C4%B1zen_Uygulama(Desktop%20Kaizen))
   + İşyerindeki verimi arttırmak adına çalışanların işyerindeki verimi arttıracaklarını düşündükleri fikirlerini kurumla paylaşabilecekleri bir web uygulaması geliştirmem kararlaştrıldı (kaizen). Henüz ilk web uygulamam olduğu için bootstrap gibi farklı teknolojiler kullanamadım. 
-* Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)
+  + 
+* [Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects/StajProje(Website%20Kaizen))
   + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  
  
  <br>
