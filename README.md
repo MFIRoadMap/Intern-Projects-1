@@ -9,7 +9,7 @@ Projeler;
    
 * [Java servlet - oracle db ile web uygulaması](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects/Ka%C4%B1zen_Uygulama(Desktop%20Kaizen))
   + İşyerindeki verimi arttırmak adına çalışanların işyerindeki verimi arttıracaklarını düşündükleri fikirlerini kurumla paylaşabilecekleri bir web uygulaması geliştirmem kararlaştrıldı (kaizen). Henüz ilk web uygulamam olduğu için bootstrap gibi farklı teknolojiler kullanamadım. 
-  + 
+
 * [Java swing - oracle db ile masaüstü uygulaması(2.uygulamanın masaüstü uygulaması)](https://github.com/MFIRoadMap/Java-Projects/tree/main/Inter-Projects/StajProje(Website%20Kaizen))
   + Web site üzerine kodladığım web kaizen uygulamasıdaki veri tabanına bağlı olarak çalışan masaüstü uygulaması geliştirdim.  
  
