@@ -1,0 +1,12 @@
+html,
+body,
+#index {
+    height: 100%;
+}
+#index {
+    background: url('../../media/background/index.webp') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}

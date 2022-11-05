@@ -1,0 +1,153 @@
+
+.fixed-top {
+    max-width: 1250px;
+    margin: 20px auto;
+    transition: 0.2s all linear;
+}
+.fixed-top.change-fix-top {
+    margin-top: 0;
+    background-color: #185fc9;
+    max-width: 2000px;
+}
+h1 {
+    margin-top: 20%;
+    font-family: 'Architects Daughter', cursive;
+    color: #f3df49;
+    font-size: 40px;
+    font-style: italic;
+    margin-bottom: 30px
+}
+h2 {
+    font-family: 'Architects Daughter', cursive;
+    color: #f3df49;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    font-family: 'Saira', sans-serif;
+    background-color: #fed136;
+    border-style: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+.btn-primary:hover {
+    background-color: #ffffff;
+    color: #fed136;
+}
+a.nav-link {
+    font-family: 'Saira', sans-serif;
+    font-size: 20px;
+    color: #ffffff !important;
+    transition: color 0.5s ease;
+    -webkit-transition: color 0.5s ease;
+    -moz-transition: color 0.5s ease;
+    -o-transition: color 0.5s ease;
+}
+a.nav-link:hover , .logo h4:hover{
+    color: #fed136 !important ;
+}
+.logo h4{
+    font-family: 'Saira', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+
+#network {
+    padding: 120px 0;
+}
+.network-top h3 , .security-top h3 , .forensic-top h3 , .translate-top h3 , .about-top h3 {
+    font-family: 'Saira', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.network-top p , .security-top p , .forensic-top p , .translate-top p , .about-top  p {
+    font-family: 'Saira', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    color:  #777777;
+    margin-bottom: 70px;
+}
+.network-content h4 , .forensic-content h4 {
+    font-family: 'Saira', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #222222;
+    margin-top: 25px;
+}
+.network-content p , .forensic-content p {
+    font-family: 'Saira', sans-serif;
+    
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
+#security {
+    background-color: 	#E0E0E0;
+    padding-bottom: 70px;
+    padding-top: 120px;
+}
+#forensic {
+    padding: 120px 0;
+}
+#translate {
+    background-color: 	#E0E0E0;
+    padding-bottom: 70px;
+    padding-top: 120px;
+}
+
+
+
+.card {
+    border-style: none;
+}
+.security-content .row , .translate-content .row {
+    margin-bottom: 50px;
+}
+.security-content .card-title , .translate-content .card-title {
+    font-family: 'Saira', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.security-content .card-subtitle ,.translate-content .card-subtitle  {
+    font-family: 'Saira', sans-serif;
+    
+    font-size: 15px;
+}
+
+
+#detailImage {
+
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.detailContent h3 {
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Saira', sans-serif;
+    background-color : white;
+}
+.detailContent {
+    font-family: 'Saira', sans-serif;
+    font-size: 16px;
+    color:  #000000;
+    background-color : white;
+    padding: 3%;
+}
+.detailSonMakaleler{
+    font-family: 'Saira', sans-serif;
+    font-size: 16px;
+    color:  #000000;
+    background-color : white;
+}
+
+
+
+

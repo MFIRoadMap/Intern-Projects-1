@@ -1,0 +1,88 @@
+html,
+body,
+#networkArticlesImage ,#securityArticlesImage ,#forensicArticlesImage ,#translateArticlesImage , #detailImage {
+    height: 80%;
+}
+#networkArticlesList ,#securityArticlesList ,#forensicArticlesList ,#translateArticlesList {
+    padding-top:25px;
+    padding-bottom: 100px;
+    background-color: #f5f3f3;
+}
+#networkArticlesList p ,#securityArticlesList p ,#forensicArticlesList p ,#translateArticlesList p {
+    padding-top: 10px;
+    font-family: 'Saira', sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    color:  #777777;
+}
+#networkArticlesList h4 ,#securityArticlesList h4 ,#forensicArticlesList h4 ,#translateArticlesList h4 {
+    padding-top: 25px;
+    font-family: 'Saira', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.networkArticles-content ,.securityArticles-content ,.forensicArticles-content ,.translateArticles-content {
+    padding-top: 40px;
+
+}
+#networkTitle ,#securityTitle ,#forensicTitle ,#translateTitle {
+    padding-top: 20px;
+    padding-left: 10%;
+    font-family: 'Saira', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+.article {
+    background-color: #ffffff;
+}
+.middle {
+    background-color: #f5f3f3;
+    padding-top: 70px;
+}
+
+#networkArticlesImage {
+    background: url('../../media/background/network.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#securityArticlesImage {
+    background: url('../../media/background/security.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#forensicArticlesImage {
+    background: url('../../media/background/forensic.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#translateArticlesImage {
+    background: url('../../media/background/translate.webp') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
+#search {
+    background-color: #f5f3f3;
+}
+.search input {
+    width: 320px;
+    height: 35px;
+}
+.search button {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+}
