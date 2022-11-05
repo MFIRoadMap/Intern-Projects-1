@@ -45,4 +45,6 @@ Proje üç kısımdan oluşmaktadır;
 
 <h3>Pos Kesintisiz Temassız Ödeme Sisteminden Görüntüler </h3>
 
-
+- [Kasa Uygulaması](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/Screenshots/Ana%20ve%20Jet%20kasa%20(Desktop))
+- [Personel Uygulaması](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/Screenshots/Personell%20%C4%B0slemleri(Desktop))
+- [Web Uygulaması](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission/Screenshots/Web)
