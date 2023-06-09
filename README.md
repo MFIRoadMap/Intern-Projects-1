@@ -15,7 +15,7 @@ Projeler;
  
  <br>
 
-### [Pos Ksintisiz Temessiz Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
+### [Pos Kesintisiz Temeassız Ödeme Sistemi](https://github.com/MFIRoadMap/Java-Projects/tree/main/Contactless%20Payment-System%20without%20Commission)
 
 Pandemiyle beraber alışverişlerde temassız ödeme sistemi yaygın olarak kullanılmaya başlandı. Bu süreçte ürün tedariği, karantina sürecinde çalışamama gibi birçok konuda zorluk yaşayan küçük ve orta ölçekli marketler aynı zamanda alışverişlerde kullanılan temassız ödemelerin artması kar marjlarında düşüşe neden olmaktadır. Bu sürecin daha az kayıpla geçiştirebilmesi için küçük ve orta ölçekli marketlerde kullanılabilecek temassız ödeme sistemi oluşturumaya çalışılmıştır.
 
